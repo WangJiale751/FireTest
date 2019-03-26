@@ -1,0 +1,10 @@
+{
+  "CamraSet": 
+  {
+    "CamraIP": "192.168.1.80",
+    "DevicePort": 8000,
+    "UserName": "admin",
+    "UserPassword": "admin123"
+  }
+
+} 
