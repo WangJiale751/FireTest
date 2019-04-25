@@ -1,4 +1,2 @@
-﻿  stdafx.cpp
-  FireTest_W.cpp
-  FireTest_W.vcxproj -> E:\2019智工之眼项目工作\火灾监测\FireTest_W\x64\Debug\FireTest_W.exe
-  FireTest_W.vcxproj -> E:\2019智工之眼项目工作\火灾监测\FireTest_W\x64\Debug\FireTest_W.pdb (Full PDB)
+﻿  FireTest_W.cpp
+e:\2019智工之眼项目工作\火灾监测\firetest_w\firetest_w\firetest_w.cpp(15): fatal error C1083: 无法打开包括文件: “acl_cpp/lib_acl.hpp”: No such file or directory

@@ -5,6 +5,12 @@
     "DevicePort": 8000,
     "UserName": "admin",
     "UserPassword": "admin123"
+  },
+    "RadisSet": 
+  {
+    "channel": "fire_channel",
+    "clientaAddr": "192.168.1.62:6379"
   }
+
 
 } 
